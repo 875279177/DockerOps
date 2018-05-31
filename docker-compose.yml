@@ -1,0 +1,13 @@
+version: "1.0.0"
+services:
+    tomcat_8080:
+        image: primetoninc/tomcat:8.5
+        links:
+              - tomcat_8080
+        port:
+              - "8080:8080"
+        networks:
+              - frontend
+        build:
+              context: ../
+              dockerfile: ../HelloOne/

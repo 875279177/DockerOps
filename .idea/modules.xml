@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DockerOps.iml" filepath="$PROJECT_DIR$/DockerOps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloOne/HelloOne.iml" filepath="$PROJECT_DIR$/HelloOne/HelloOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloTwo/HelloTwo.iml" filepath="$PROJECT_DIR$/HelloTwo/HelloTwo.iml" />
+    </modules>
+  </component>
+</project>
